@@ -27,3 +27,6 @@ This repository contains my **JavaScript learning journey**. It is organized int
  *  Navigate to a lesson folder and open the example .js files in your editor.
 
  *  Run the code in your browser or Node.js environment.
+
+---
+The sequel will be coming soon 😉.
