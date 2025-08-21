@@ -1,0 +1,12 @@
+# Variables in JavaScript
+
+In JavaScript, variables are used to store data values. You can declare variables using `var`, `let`, or `const`.
+
+## Examples
+
+```js
+let name = "John";
+const age = 25;
+var country = "Azerbaijan";
+
+console.log(name, age, country);
