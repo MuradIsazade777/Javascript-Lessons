@@ -14,6 +14,7 @@ This repository contains my **JavaScript learning journey**. It is organized int
 6. **06-objects** – Learn about objects, properties, and methods in JavaScript.  
 7. **07-functions** – Understand how to create reusable functions, including arrow functions.  
 8. **08-dom** – Learn DOM manipulation: selecting elements, changing content, and adding event listeners.
+9. **Array Methods** - Arrays are one of the most important data structures in JavaScript.
 
 ---
 💡 Notes
