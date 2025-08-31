@@ -3,6 +3,7 @@ JavaScript Lessons
 This repository contains  essential JavaScript lessons for beginners and intermediate learners. Each lesson focuses on a fundamental topic in JavaScript, helping you build a solid foundation in programming.
 
 📚 Lessons
+
 01 Variables
 
 Learn how to declare, assign, and use variables using let, const, and var. Understand variable scope and best practices.
